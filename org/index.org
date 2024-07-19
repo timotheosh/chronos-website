@@ -1,0 +1,12 @@
+#+title: The Universe of Setsafar Commonwealth
+#+category: Introduction
+#+startup: inlineimages
+
+* The Universe of Setsafar Commonwealth
+#+caption: Setsafar Cruiser ship in close orbit of a planet.
+#+attr_org: :width 800
+#+attr_html: :class pic-banner :alt Stesfar Cruiser ship
+#+attr_latex: :width 350px
+[[./img/setsafar-cruiser.jpg]]
+
+Setsafar Commonwealth is a vast interstellar civilization, that has engaged in interstellar travel and commerce for well over 2000 years, based on the Commonwealth Timescale Standard.
