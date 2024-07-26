@@ -1,7 +1,54 @@
 #+title: History
 #+category: History
+* Timeline from our time to the age of Chronos
+Interstellar travel and time dilation are normative in this world. They have figured out how to break the time-space barrier, and go into significantly higher time dilation rates than what is possible from just traveling near the speed of light (roughly dilation 7). It is done at the sub-particle level. Dilation rates can be created for objects (or humans!) as high as dilation 500.
 
-* The Emergence of the Setsafar Commonwealth
+They have also figured out how to place entire star systems into these high dilation rates. But it has been shown that dilation rates higher than 100 are less advantageous, and can produce negative results.
+
+Want a fine wine, aged by 300 years? No problem. Start a vineyard in a dialation 1 zone, and wait 3 years at dilation 100. Need to terraform an entire planet and get it trading productively in dilation 100 zone? No problem, set their start system at dilation 1 for 20 years. There will be an ancient civilization, with its own unique history, ready o participate in the larger intergalactic trade system. Naurrnen was lost to them. They have no idea what happened to it, so is out of the picture for this thought experiement.
+
+The Age of Chronos is an extension of our modern Quantum Loop Gravity theory. By the time it was perfected, we had reached the stars, and were traveling by constructed wormholes. Learning not to use the state for their strength and survival, had disastrous results. There were the Chronos wars, where time dilation was weaponized. Taking advantage of civilizations at higher dilation zones from lower ones. Manipulating zones to confuse cause and effect of events (ala Richard Muller's thesis in his book "Now: The Physics of Time - and the Ephemeral Moment That Einstein Could Not Explain").
+
+** Quantum Mastery
+The era is defined by the perfection of Quantum Loop Gravity theory, allowing for the construction of wormholes and sophisticated manipulation of time dilation. This technological leap enables humanity to traverse the stars and manipulate time at an unprecedented scale.
+
+** Chronos Wars
+The misuse of these advanced capabilities leads to catastrophic conflicts known as the Chronos Wars. Time dilation becomes a weapon, with civilizations exploiting time discrepancies to gain advantages, creating chaos and instability. The manipulation of time zones disrupts cause and effect, leading to unpredictable and often devastating consequences. Civil governments were the prime targets, as they were vullnerable "single points of failure". The results reacked havoc on all civilizations, making trade near impossible, and technological regression for many star systems.
+
+** Ethical Collapse
+The initial rejection of state structures in favor of unregulated advancement results in a lack of cohesive control and ethical oversight. This absence of governance and collective responsibility exacerbates the destructive potential of time dilation technologies.
+
+** Cultural Reflection
+In the aftermath of the Chronos Wars, societies reflect on the failures and devastation caused by the misuse of time manipulation. This reflection leads to a renewed emphasis on developing a culture of wisdom, ethical considerations, and community responsibility to prevent such a catastrophe from recurring.
+
+** Temporal Ethics
+The era inspires new philosophical and ethical frameworks focused on the responsible use of time manipulation. Scholars, scientists, and ethicists work together to create guidelines and practices that balance technological prowess with moral considerations.
+
+** Restoration Efforts
+Post-war efforts are concentrated on rebuilding civilizations, restoring stability, and addressing the long-term impacts of time manipulation on societies and individuals. This period marks a return to valuing wisdom and ethical behavior over unchecked technological advancement.
+
+In this post-Chronos Wars era, the rise of a new civilization rooted in Althusian principles brings a hopeful and transformative narrative:
+
+*** Monastic Origins
+Emerging from the devastation, a monastic order finds solace and guidance in Johannes Althusius' "On Politics." This text becomes the foundation of their practices, emphasizing communal harmony, ethical behavior, and mutual support.
+
+*** Inclusive Practices
+The monastic order expands to include non-practicing members, provided they adhere to the Althusian "rules of behavior." This inclusivity fosters a diverse and cohesive community united by shared values rather than uniform beliefs.
+
+*** Civilization of Symbiosis
+As this community grows, it transforms into a civilization that spreads its influence not through conquest but through peaceful integration, cooperation, and mutual benefit. Their model becomes attractive to others seeking stability and harmony in the post-war world.
+
+*** Ethical Governance
+The civilization adopts a system of governance based on Althusian principles, prioritizing the well-being of all members, promoting individual responsibility, and fostering a sense of collective stewardship over resources and societal development.
+
+*** Cultural Renaissance
+This new civilization experiences a cultural renaissance, with a focus on arts, philosophy, and sciences that align with their ethical and communal values. They become a beacon of cultural and intellectual growth in the post-war landscape.
+
+*** Diplomatic Expansion
+Their approach to expansion is diplomatic and symbiotic, forming alliances and integrating other communities through shared values and mutual respect. This method proves effective in creating a large, stable, and peaceful civilization.
+
+*** Legacy of Peace
+The legacy of this civilization stands in stark contrast to the chaos of the Chronos Wars. Their success in building a society based on peace, symbiosis, and love serves as a testament to the power of ethical principles and communal harmony in overcoming adversity and fostering long-term stability.
 
 ** I. The Precursor Wars: The Catalyst for Change
 
