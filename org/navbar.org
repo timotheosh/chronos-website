@@ -3,7 +3,7 @@
 :HTML_HEADLINE_CLASS: absent
 :END:
 #+HTML:    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-#+HTML: <a href="/index.html" class="dropdown-btn">The Universe of Setsafar</a>
+#+HTML: <a href="/index.html" class="dropdown-btn">The Age of Chronos</a>
 * History
 :PROPERTIES:
 :HTML_HEADLINE_CLASS: absent
