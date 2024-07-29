@@ -1,12 +1,12 @@
-#+title: The Universe of Setsafar Commonwealth
+#+title: The Age of Chronos
 #+category: Introduction
 #+startup: inlineimages
 
-* The Universe of Setsafar Commonwealth
-#+caption: Setsafar Cruiser ship in close orbit of a planet.
+* The Age of Chronos
+#+caption: When the manipulation of space/time becomes a standard every day occurance.
 #+attr_org: :width 800
-#+attr_html: :class pic-banner :alt Stesfar Cruiser ship
+#+attr_html: :class pic-banner :alt A clock with a center that spirals inward repeatedly.
 #+attr_latex: :width 350px
-[[./img/setsafar-cruiser.jpg]]
+[[./img/chronos-header.jpg]]
 
-Setsafar Commonwealth is a vast interstellar civilization, that has engaged in interstellar travel and commerce for well over 2000 years, based on the Commonwealth Timescale Standard.
+Step into a future, thousands of years ahead, where the fabric of spacetime is as malleable as clay, shaped by technology that surpasses the wildest dreams of physicists like Einstein and Hawking—welcome to the Age of Chronos.
