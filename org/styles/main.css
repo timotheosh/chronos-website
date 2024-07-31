@@ -1,6 +1,7 @@
 body {
   color: #999999;
   font-family: "Roboto Condensed";
+  font-size: 16pt;
   background-image: url("/img/space-7709489_1280.jpg");
   background-size: cover;
   background-repeat: no-repeat center center fixed;

@@ -33,6 +33,8 @@
 #+HTML: </button>
 #+HTML: <div class="dropdown-container">
 - [[file:physics/index.org::*Physics][Physics]]
+- [[file:physics/general-relativity.org][Understanding General Relativity]]
+- [[file:physics/quantum-loop-gravity.org][Introduction to Quantum Loop Gravity]]
 #+HTML: </div>
 * Technology
 :PROPERTIES:
