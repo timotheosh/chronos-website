@@ -9,7 +9,7 @@
 #+attr_latex: :width 350px
 [[./img/chronos-header.jpg]]
 
-Step into a future, thousands of years ahead, where the fabric of spacetime is as malleable as clay, shaped by technology that surpasses the wildest dreams of physicists like Einstein and Hawking—welcome to the Age of Chronos.
+Step into a future, thousands of years ahead, where the fabric of time is as malleable as clay, shaped by technology that surpasses the wildest dreams of physicists like Einstein and Hawking—welcome to the Age of Chronos.
 
 The Chrono Wars: Enter the era of the Chrono Wars—a time of unprecedented conflict and technological advancement. As star systems compete for supremacy, the mastery of time dilation technology becomes the ultimate weapon and economic boon. This period is marked by rapid innovation, the rise and fall of empires, and the birth of a new socio-political landscape.
 

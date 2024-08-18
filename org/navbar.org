@@ -28,21 +28,23 @@
 :PROPERTIES:
 :HTML_HEADLINE_CLASS: absent
 :END:
-#+HTML: <button class="dropdown-btn" id="">Physics
+#+HTML: <button class="dropdown-btn" id="Physics">Physics
 #+HTML:   <i class="fa fa-caret-down"></i>
 #+HTML: </button>
 #+HTML: <div class="dropdown-container">
 - [[file:physics/index.org::*Physics][Physics]]
 - [[file:physics/general-relativity.org][Understanding General Relativity]]
-- [[file:physics/quantum-loop-gravity.org][Introduction to Quantum Loop Gravity]]
+- [[file:physics/loop-quantum-gravity.org][Introduction to Loop Quantum Gravity]]
 #+HTML: </div>
 * Technology
 :PROPERTIES:
 :HTML_HEADLINE_CLASS: absent
 :END:
-#+HTML: <button class="dropdown-btn" id="">Technology
+#+HTML: <button class="dropdown-btn" id="Technology">Technology
 #+HTML:   <i class="fa fa-caret-down"></i>
 #+HTML: </button>
 #+HTML: <div class="dropdown-container">
 - [[file:technology/index.org][Technology]]
+- [[file:technology/quantum-oscillator-engine.org][Quantum Oscillator Engine]]
+- [[file:technology/wormholes.org][Wormholes]]
 #+HTML: </div>

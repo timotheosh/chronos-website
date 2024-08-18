@@ -1,0 +1,94 @@
+* #+title: Feeder File for the Age of Chronos
+
+* Feeder File for the Age of Chronos
+
+** Modern Era
+
+*** The Plight to Reconcile Two Opposing Theories - General Relativity and Quantum Mechanics
+This is our modern age. The scientific community grapples with the profound challenge of reconciling the principles of general relativity, which governs the macroscopic world, with quantum mechanics, the framework for the subatomic realm. These theories, though both successful within their respective domains, appear fundamentally at odds with one another. While some speculative models attempt to preserve the familiar constructs of classical physics—often leading to ideas like multiple worlds—these approaches may be more reflective of an attachment to outdated paradigms than of scientific progress. In contrast, Loop Quantum Gravity offers a scientifically rigorous path forward, acknowledging the limitations of classical physics and embracing the probabilistic nature of the quantum world to potentially unify our understanding of the cosmos.
+
+
+**** Carlo Rovelli
+Carlo Rovelli, a prominent physicist, has been a key figure in developing the theory of Loop Quantum Gravity (LQG), which aims to reconcile general relativity with quantum mechanics by proposing that the fabric of spacetime itself is quantized. First a disclaimer: I am not a physicist. Any misinterpretation of Carlos Rovelli's views are my fault. I am to blame. I will do my best to explain what I understand from his perspective.
+
+1. Time as an Emergent Phenomenon: Rovelli's work suggests that time might not
+   be a fundamental entity of the universe. Instead, it could emerge from the
+   more fundamental interactions of quantum particles. This challenges the
+   classical view of time as a universal, ever-flowing river, and instead
+   proposes that time is a byproduct of quantum processes.
+
+2. Quantization of Gravity and Spacetime: In LQG, spacetime is not continuous
+   but composed of discrete loops or "quanta" of space. Gravity, rather than
+   being a force mediated by a field in a smooth spacetime, is the result of the
+   probabilistic interactions between these loops. This means that on the
+   smallest scales, spacetime has a granular structure.
+
+3. Relational Interpretation of Quantum Mechanics: Rovelli advocates for a
+   relational view of quantum mechanics, where the properties of quantum systems
+   are not absolute but are instead relative to other systems. This further
+   supports the idea that time and space are not fundamental, but emerge from
+   the relations between quantum events.
+
+4. Implications for Black Holes and Cosmology: Rovelli's work has profound
+   implications for our understanding of black holes and the early universe. In
+   the context of black holes, Loop Quantum Gravity suggests that singularities
+   (where classical physics breaks down) are not possible. Especially in light
+   of the view that reality is particle-based and not a continuum. Rovelli
+   speculates that black holes could, after an indefinitely long period of time,
+   experience a "quantum bounce" and reverses its pull, possibly becoming white
+   holes.
+
+**** Speculations of an arm chair physicist
+
+***** Black Holes, White Holes, and the cycle of entropy
+Leap Quantum Gravity views reality as a system of interrelated particles. There are no continuums, except, perhaps the continuum of countless particles. There are no singularities in nature, and Black Holes actually reverse entropy in compacting particles at the quanta level. There is also the following effect of quantum bounce, in which a black hole, instantly from the time reference within it, but for millions of years from the time reference of most of the uiniverse, explode quanta, becoming white holes, and returning matter into ever increasing entropy. This is what the dark matter we have detected today came from.
+
+***** Time Dilation
+Engineering will one day find a way to manipulate reality at the quanta level. This world is my speculation of how it could look like.
+
+***** Progress of man
+I believe that humankind, and all potential species in this universe were created by a loving ever-present personal being. While I will offer no defense for this view in this paragraph, it does serve as my motivation for creating this world. I am an eternal optimist of what humankind will mature into over the years. Perhaps it will not take nearly as mutch time as I have fashioned this story, or maybe it will take a while longer. The only place I rest certainty is that the story of the maturation of humankind is much akin to that of any individual. Life and growth is full of immaturity, shattered dreams, glorious moments of celebration, and a return to one's creator, offering up what they have accomplished in the one life they have.
+
+** Speculative Fiction
+*** Once upon a time
+In a galaxy near you, in the distant future. Tens of thousands of years into our distant future... humankind is here.
+*** Sources of Energy
+**** Traditional Propulsion
+Safe fission reactors can be made, the size of a wrist watch. This is the propulsion system most widely used to power planet-based vehicles, and extra power sources in the homes of the future.
+**** Anti-matter
+Antimatter interacting with matter in a controllled electromagnetic field is a common propulsion system for getting around within a star system. It is possible to reach twice the speed of light with such systems for short (star system wide) distances.
+**** Quantim oscillilator
+The quantum oscillator engine is a revolutionary engine that uses the quantum mechanics of entropy reversal. Black holes in the universe compact particles into their simplist forms, reversing entropy, until a quantum bounce causes the hole to reverse its momentum into that of a white whole, pushing entropy further forward. A quantum oscillilator consists of at least two fields that simulate this process at the quantum level. While one field is decreasing entropy (black hole effect), feeding off the other field that is increasing entropy (white hole effect), and then the two fields with switch roles. Both fields are contained in a neutral quantum field. The entire process is calculated and contained through a complex field of self correcting Bayseian probablity. These engines can fit into larger spaceships to be sure, but are more commonly found powering time dilation units for star systems, and for creating and maintaining wormholes so smaller ships can travel vast distances without a lot of fuel or sophisticated engines.
+*** Time Dilation
+**** Dilation and its limitations
+Through the use of Bayesian probability, technology is able to manipulate quanta across large regions of space, creating time dilation zones similar to those believed possible only within black holes. In a typical environment, where time dilation is effectively 1, this technology allows for variations in time flow ranging from -100 to 100 within a 2-meter square area. The larger the area, the more extreme the possible dilation. This capability opens the door to unprecedented control over time, with significant implications for both science and society.
+**** Standard Dilation Zones
+There is a common need and desire to live life at dilation 100, and so many inhabited star systems run artificially at this dilation rate. Running at dilation 100 is relatively inexpensive. Dilation manupulators can be placed in several key points within a star system. They work in a self correcting network, eliminating any single point of failure. They require only the sun and electromagnatic fields from the sun and other orbiting giant gas planets.
+
+Some planets within a star system might be reserved against time dilation for the purpose of manufaturing or growing goods and services. These zones were always managed by automotons, and never living beings. Automoton maintence is considerably less sophisticated and more economical than species maintenance.
+*** Space Travel
+Humankind explored other planetary systems within their galaxy, built intergalactic trade systems, and discovered other human-like species in distant galaxies.
+**** Wormholes
+***** Most stable
+The most stable wormholes are created between two fully known areas within the universe. Wormholes are created by "worm orbitals" that are quantumly linked together, from two different vast distances, they create a quantum disruption field that links one hole opening to the other.
+***** Exploratory
+These wormholes are created by a single "worm orbital". Opening worm holes with a single orbital is not stable, and requires far more energy to keep open. For an exploratory wormhole, two "worm orbitals" are used, but they start at the same spot. One orbital will create a wormhole, using Baysian probability to detect likely exit point within the known universe. Photons are sent through the wormhole to act like a sonar, but with light instead of sound. These devices are known as "photars". The photar system would analyze the time delay, frequency shift, and intensity of the returning photons, much like how sonar interprets sound waves. This data could then be used to construct a detailed map of the exit environment, including potential hazards or anomalies that might affect the stability or usability of the wormhole. If everything looks ok, the second orbital is sent through the newly created wormhole, to stabilize the wormhole from the exit point.
+***** Wormhole closing
+Wormholes are closed by systematically shutting down the "worm orbitals". Photars are employed from both the entrance and exit to make sure there is no matter traveling within the wormhole. At this point, one of two procedures will be conducted. Either one of the "worm orbitals" will travel back through the wormhole to the other, before shutting doen the wormhole, or both will shutdown the wormhole from each end, then both can be resused elsewhere from whereever they and up.
+*** Economic and Societal impact
+**** Time Dilation Manufacturing
+***** Laisez Faire in the year 18200
+****** Entrpreneural Opportunities
+You are an aspiring entreprenuer with little money.
+******* Wine Merchant
+You see that there is a demand for 300 year old wine. You have no resources. You have no connections to providers of this aged prize.
+******** What do you do?
+Quite simple, actually, you rent a vineyard on a neighboring planet at dilation 1. Automatons plant your vineyard, care for your crop, harvest the grapes, distill and store your wine. Within four years at dilation 100, you have bottles of 300 year old wine to sell.
+******* Manufacturer
+You see there is a growing demand for widgets (an arbitrarially name artifical comodity that could represent almost anything). Widgets take a long time to manufacture, especially in higher quantities. Not only that, but you need a prototype... like yesterday.
+******** What do you do?
+You rent a widget factory at dilation 1. Design your widget with a cad program. Send the 3d cad figure to the automation for your factory, and it will have a prototype to you in less than an hour. If no modifications need to be made, you can send it to production at dialtion 1, and you'll have more than enough widgets from your prototype to sell by morning.
+******* Super LLM's for Artificaitl Intelligence
+You need a comprehensive model designed specifically for your domain, and a mountain of data that needs to be tokenized and processed into a new LLM.
+******** What do you do?
+Yeah, this is starting to get a bit obvious, right? Rent your GPU farm at dilation 1, and let it run, while you sip martinis for a couple days at dilation 100. When you retreive the finished work, viola. A mega LLM ready to be fed into your automotans.
