@@ -14,6 +14,16 @@
 #+HTML: <div class="dropdown-container">
 - [[file:history/index.org::*The Emergence of the Setsafar Commonwealth][The Emergence of the Setsafar Commonwealth]]
 #+HTML: </div>
+* Books
+:PROPERTIES:
+:HTML_HEADLINE_CLASS: absent
+:END:
+#+HTML: <button class="dropdown-btn" id="Books">Books
+#+HTML:   <i class="fa fa-caret-down"></i>
+#+HTML: </button>
+#+HTML: <div class="dropdown-container">
+- [[file:books/the-science-of-chronos.org][The Age of Chronos]]
+#+HTML: </div>
 * Characters
 :PROPERTIES:
 :HTML_HEADLINE_CLASS: absent
