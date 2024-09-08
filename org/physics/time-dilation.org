@@ -2,7 +2,7 @@
 #+startup: inlineimages
 
 * Time Dilation
-Begining with Loop Quantum Gravity theory, matter at the quanta level is a system of quanta loops and networks that are defined by how these particles interact with each other. Time is therefor quantized. By manipulating these networks in consistent patterns, it is possible to create a time dilation zone, or rather a zone within space where time moves more slowly. This process slows entropy at the quanta level.
+Begining with Loop Quantum Gravity theory, matter at the quanta level is a system of quanta loops and networks that are defined by how these particles interact with each other. Time is therefore quantized. By manipulating these networks in consistent patterns, it is possible to create a time dilation zone, or rather a zone within space where time moves more slowly. This process slows entropy at the quanta level.
 
 Further developments enabled engineers to create even larger quantized zones, impacting time dilation. In combination of quantum linking and localized disruption on a star system's star, near the center of gravity, it is possible to slow time significantly for entire star systems.
 

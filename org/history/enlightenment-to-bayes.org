@@ -1,0 +1,16 @@
+#+title: Enlightenment To Bayes
+#+startup: inlineimages
+#+category: History
+
+* Enlightenment To Bayes
+** Enlightenment and Determinism
+The Enlightenment introduced a world of deterministic models and a belief in absolute certainty. This period is characterized by the belief in absolute certainty, where everything is thought to be predictable given enough data and understanding. This deterministic approach is the foundation of all scientific, social, and cultural institutions.
+*** Determinism in Thomas Hobbes' Leviathan
+**** Materialistic Determinism
+Hobbes was a strict materialist, believing that all phenomena in the universe, including human thoughts and actions, are the result of physical processes. He argued that everything, including human behavior, is governed by cause and effect. This means that, in Hobbes' view, human actions are determined by prior events and conditions, leaving little room for free will or moral choice outside of these deterministic laws.
+**** Human Nature and Behavior
+Hobbes' concept of the "state of nature" and the "war of all against all" reflects his deterministic view of human nature. He believed that without a powerful sovereign to enforce peace, humans are naturally driven by self-preservation and would inevitably act in their own self-interest, leading to conflict. This view suggests that human behavior is predictable and determined by basic instincts and desires, which need to be controlled by external forces.
+**** Social Contract and Absolutism
+Hobbes’ social contract theory is built on the assumption that individuals will always act to avoid their own destruction and will therefore rationally agree to surrender some of their freedoms to a sovereign authority in exchange for security. This idea is deterministic in that it assumes a predictable human response to fear and the desire for self-preservation.
+*** Determinism in Science
+****

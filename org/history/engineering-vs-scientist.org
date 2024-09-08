@@ -2,7 +2,7 @@
 
 
 * Engineering vs Scientist
-** Platos Republic
+** Engineering (Bayesian probability) and Scientists (Frequentist probability)
 
 * The History of Hobbesian Nations and the Althusian Commonwealth
 ** The Rise of Hobbesian Nations and the Chronos Wars
