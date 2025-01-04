@@ -2,4 +2,4 @@
 ;;; For more information see (info "(emacs) Directory Variables")
 
 ((nil . ((gimel-auto-publish . t)
-         (gimel-api-endpoint . "http://localhost:8088"))))
+         (gimel-api-endpoint . "http://localhost:8880"))))
