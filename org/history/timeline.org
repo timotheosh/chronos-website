@@ -1,0 +1,143 @@
+#+title: Timeline
+#+category: History
+
+* Modernity (1436 CE – 2025 CE)
+This period is known by Setsafar scholars as *"The Age of Regression"* — a time when humanity fell in love with its curiosity and growing knowledge, while regressing into *isolation, elitism, and moral degradation*. The era saw the abandonment of *God*, *neighbor*, and *community*, in favor of *Greco-Roman Ideals*, resulting in rigid patriarchal systems that limited the rights of women, abandoned community symbiosis for totalitarian structures in both Church and state, redefined its real comming of age as the *Dark Ages*.
+
+#+begin_quote
+"True progress occurs only when Rahnami is treasured by all." -- Father Sadeq Abdi
+#+end_quote
+
+** Pre-Modernity (ca. 1250 CE)
+- *1250*: Roger Bacon lays the groundwork for the *so-called Renaissance*.
+- Setsafar views Bacon’s contributions as *positive advancements in scientific inquiry*, but criticizes the later *secularization of knowledge*, when the pursuit of knowledge became *detached from relational wisdom*.
+
+  #+begin_quote
+  "All knowledge is relational. When it is sought for its own sake, if it is sought without personal interaction with the Dao [God] and man, it is deception that we seek." -- Brother Zou Delan
+  #+end_quote
+
+** Beginning of the Dark Era (1300 CE)
+
+- Setsafar calls the *Italian Renaissance* the *"Beginning of the Dark Era"*, seeing it as a return to *pagan ideals*, *human-centered glorification*, *hubris*, and *absolutist politics*.
+- The Renaissance, from their perspective, was *not a rebirth of wisdom* but a *reversion to adolescence*, glorifying *individual achievement* over *relational responsibility* and *symbiotic governance*.
+- *"The Renaissance was a rejection of the relational worldview. It glorified man apart from his Creator" and apart from each other.*
+
+  #+begin_quote
+  "Knowledge does not beckon us to change. It may even tell us that we were better off as adolescents. Wisdom, however, demands that we change, or it will not lend us its aid." -- Lady Tao Ya
+  #+end_quote
+
+** Gutenberg Press Invented (1436 CE)
+
+- Seen by Setsafar as *both a blessing and a curse*.
+- While it democratized knowledge, it also *amplified both wisdom and error*, making truth more accessible, but also spreading falsehood more efficiently.
+
+  #+begin_quote
+  "Technology is a tool we are graciously granted. It is always more than we deserve. For by it, wisdom is spread more efficiently and is made more accessible. For by it, error is spread more efficiently and is made more accessible. What error cannot account for, is its own destruction in the wake. Wisdom always bears better fruit, so technology is to be striven for, always." — Brother Samuel Ferris
+  #+end_quote
+
+** Protestant Reformation (1517 CE)
+- Setsafar sees the *early Reformation* as a *response to the Renaissance*. Growing *superstitions* were rampant within the Church, and *state absolutism* was taking hold. If *state power* had fully solidified in the *Holy Roman Empire* by Luther’s day, his stance may never have succeeded.
+- But alas, the Reformation *lost its way after Calvin*. It became engrossed in *hyper-materialism*, ultimately returning to *the same hubris* that fueled the *Renaissance*.
+
+  #+begin_quote
+  “The Church is not wood and stone, but the company of believing men, one soul in a thousand bodies.” — Martin Luther
+  #+end_quote
+
+  #+begin_quote
+  “Without knowledge of self, there is no knowledge of God. Without knowledge of God, there is no knowledge of self.” — John Calvin
+  #+end_quote
+
+  #+begin_quote
+  “It’s natural to believe in the supernatural. It never feels natural to accept only natural things.” — Henri de Lubac
+  #+end_quote
+
+** Rise of Scholastic Protestantism (1572 CE)
+- *Petrus Ramus* was *a towering figure in the reform of logic and education*. He sought to *simplify Aristotelian logic*, making it *accessible and practical* for *real-world application*. His influence on *Protestant Scholasticism* was *paramount*, shaping *educational systems* and *philosophical thought* well into *modern times*.
+- Setsafar praises his efforts to *democratize knowledge* and *reject the elitism* of *university systems* that treated *logic as an abstract art*, rather than *a tool for discernment and wisdom*.
+
+  #+begin_quote
+  “Knowledge must serve life. It must be a tool for discernment, not a labyrinth of endless abstractions.” — Petrus Ramus
+  #+end_quote
+
+** Althusius' Magnum Opus /On Politics/ (1603 CE)
+- Setsafar sees *Johannes Althusius* as *the most important thinker of modernity*.
+- Where other political writings wrestle with *the control of everything*, Althusius focused on *humankind's hearts*. Instead of asking *"how should governments rule?"*, he asked *"how should people live?"*. His work shows that *polity is the natural outcome of people living rightly*.
+- His work on *federalism and symbiotic governance* becomes *a foundational text* for Setsafar philosophy.
+- *"Where others sought power, Althusius sought peace."*
+
+  #+begin_quote
+  "Ask not 'how should our rulers behave?'
+   Ask rather 'how should we behave?'
+   The latter determines the former." — Father Nkosingiphile [name is Zulu for "Given by God"]
+  #+end_quote
+
+** The Peace of Westphalia (1648 CE) and the English Civil War (1642–1651 CE)
+- Setsafar sees these events as *two sides of the same coin*: both were responses to *absolutism*, but they unfolded in *very different ways*.
+- *Westphalia* is remembered as *the last major triumph of relational governance*, a peaceful settlement that recognized *local autonomy and religious freedom*.
+- In contrast, the *English Civil War* represents the *violent consequences* of *failing to uphold relational governance*, leading to *chaos, violence, and the temporary collapse of monarchy*.
+
+  #+begin_quote
+  "Rahnami is mercy. Before confronting the evil outside, confront the evil inside. Fix the lack of Rahnami in yourself, and then, and only then can you confront the evil outside. If you want a second chance, give it freely. If you want third, fourth, fifth chance, give it freely. You cannot understand the poverty out there, without first confronting the poverty in here." — The Rahnami
+  #+end_quote
+
+** Thomas Hobbes' /Leviathan/ (1651 CE): The retrobate Calvinist
+- Important to note that Setsafar has accepted the scholarship of A.P. Martinich's /The Two Gods of Leviathan: Thomas Hobbes on Religion and Politics/
+- *Hobbes' Leviathan* is interpreted by Setsafar as *a disastrous return to absolutism*.
+- Hobbes, a supporter of Cromwell initially, switches back to favor Charles II after Cromwell's failure to produce a successor. Hobbes claims to have never left Calvinism, but instead has tried to remain true to it. His hyper-materialism was Tertullian-like, not secular at all.
+- *"Where Althusius preached mutual responsibility, Hobbes writes a tome defending the Divine Rights of Kings."*
+
+  #+begin_quote
+  "A man who makes fear the foundation of governance has already abandoned mercy. What he rules is not a commonwealth, but a prison." — Father Nkosingiphile
+  #+end_quote
+
+** Glorious Revolution (1688 CE)
+- Setsafar scholars critique this as *a superficial revolution* that *replaced one absolutist system with another*.
+- They see *John Locke’s ideas* as *fundamentally flawed*, promoting *individualism over relationalism*.
+
+
+
+** America's War Against Freedom (1775 CE)
+- Setsafar interprets the *American War of Independence* as *a war against freedom* rather than for it.
+- *"The American colonies were freer under England than they ever were under their own government."*
+- The *mass exodus to Canada* is seen as *a rejection of the American experiment*.
+- *"The colonists did not fight for liberty. They fought to create their own Leviathan."*
+
+** World War I (1914 – 1918 CE)
+- Viewed as *the beginning of the true Anthropocene decline*.
+- *"The war to end all wars only brought more."*
+
+** World War II (1939 – 1945 CE)
+- Setsafar chronicles emphasize *the moral failings* of *both Axis and Allied powers*, refusing to *glorify the victors*.
+- *"There were no righteous nations in this war. Only tragedies."*
+
+** Cold War (1945 – 1989 CE)
+- Seen as *a continuation of imperialistic tendencies*, masked by *ideological rivalry*.
+
+** American Wars of Oppression (1990 – 2017 CE)
+- Setsafar labels this period as *the American empire’s campaign to maintain global hegemony*.
+- *"The wars of this era were not about peace, justice, or freedom. They were about control."*
+
+
+
+* Modernity 1436 - 2025
+** Pre-Modernity - 1250 Roger Bacon and the beginning of the so-called Rennaissance
+** Beginning of the Dark Era (Itallian Rennaisance) - 1300
+** Gutenberg Press invented - 1436
+** Protestant Reformation - 1517
+** Rise of Scholastic Protestantism 1572 - Petrus Ramus
+** Althusius' Magnum Opus, /On Politics/ - 1603
+** Althusius greatest achievement in modernity - Peace of Westphalia 1648
+** English Civil War 1642 - 1651
+** Thomas Hobbes Leviathan - 1651 Return to Absolutism, abandonment of Althusius
+** Glorius Revolution (of England) - 1688
+** American's War Agasinst Freedom 1775
+Setsafar reads this as America's war AGAINST freedom, because the U.S. colonies were the second freest people in the known world at the time. Freer than the people in mainland England. Upono winning the war, American colonies were paying significant higher taxes than they were under England. Mass exodus of colonists relocate to Canada, and not for 'political reasons'.
+** World War I 1914-1918
+** World War II 1939-1945
+** Cold War 1945-1989
+** American Wars of Oppression 1990-2017
+* Post Modernity 2025 CE - 3025 CE (a.k.a. by Setsafar Scholars as the late Pre-Bayesian Era)
+** The Anthropocene Decline (2025 CE – 2150 CE)
+*** Key Themes
+**** Climate concerns prove ridled by Bernoulli's fallacy of frequentist models with fallacious inference.
+There was an undeniable impact on the Eartyh's atmosphere due to carbon emmissions by humankind, but hubris was inserted to make the crisis seem far more extreme, and keep competing third world countries from competing with western markets by trying to enforce "Green Policies" on early developed economies.
