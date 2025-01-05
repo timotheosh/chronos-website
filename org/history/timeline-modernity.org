@@ -3,7 +3,7 @@
 
 * Timeline: Modernity (1436 CE – 2025 CE):  A Setsafar Commentary
 #+begin_quote
-"'The victors write the history,' or so they say. Luo Guanzhong's /Romance of the Three Kingdoms/ demonstrates another principle: 'but the poet will prove them wrong.'" — Brother Amos Kwan
+"'The victors write the history,' or so they say. Luo Guanzhong's /Romance of the Three Kingdoms/ demonstrates another principle: 'but the poet will prove them liars.'" — Brother Amos Kwan
 #+end_quote
 
 This period is known by Setsafar scholars as *"The Age of Regression"* — a time when humanity fell in love with its curiosity and growing knowledge, while regressing into *isolation, elitism, and moral degradation*. The era saw the abandonment of *God*, *neighbor*, and *community*, in favor of *Greco-Roman Ideals*, resulting in rigid patriarchal systems that limited the rights of women, abandoned community symbiosis for totalitarian structures in both Church and state, redefined its real comming of age as the *Dark Ages*.
@@ -148,3 +148,11 @@ This period is known by Setsafar scholars as *"The Age of Regression"* — a tim
 ** American Wars of Oppression (1990 – 2017 CE)
 - Setsafar labels this period as *the American empire’s campaign to maintain global hegemony*.
 - The wars of this era were not about peace, justice, or freedom. They were about control.
+
+  #+begin_quote
+  “In other words, war has a momentum of its own and it carries you away from all thoughtful intentions when you get into it. Today, if we went into Iraq, like the president would like us to do, you know where you begin. You never know where you are going to end.” -- George F. Kennan
+  #+end_quote
+
+  #+begin_quote
+  “From a strategic point of view, it has to be seen as a complete failure, and yet it went on for 20 years, why did it go on for 20 years? Because the defense industry companies that make the bombs, that make the planes, that make the vehicles, and also the private military contractors that now are fighting the wars in lieu of public military personnel, they made trillions of dollars as long as the war continued. So they didn’t care if the war was ever won, the goal was for the war to simply continue forever… the point is not to win the war, but to make sure it never ends because you’re going to keep making profits.” -- Daniel Kovalik
+  #+end_quote
