@@ -12,6 +12,8 @@
 #+HTML:   <i class="fa fa-caret-down"></i>
 #+HTML: </button>
 #+HTML: <div class="dropdown-container">
+- [[file:history/timeline-modernity.org][Timeline: Modernity (1436 CE – 2025 CE)]]
+- [[file:history/timeline-postmodernity.org][Timeline: Post Modernity (2025 CE - 3500 CE)]]
 - [[file:history/index.org::*The Emergence of the Setsafar Commonwealth][The Emergence of the Setsafar Commonwealth]]
 #+HTML: </div>
 * Books
@@ -22,6 +24,7 @@
 #+HTML:   <i class="fa fa-caret-down"></i>
 #+HTML: </button>
 #+HTML: <div class="dropdown-container">
+- [[file:books/the-rahnami.org][The Rahnami]]
 - [[file:books/the-science-of-chronos.org][The Age of Chronos]]
 #+HTML: </div>
 * Characters

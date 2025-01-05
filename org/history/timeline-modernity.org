@@ -1,7 +1,11 @@
-#+title: Timeline
+#+title: Timeline: Modernity
 #+category: History
 
-* Modernity (1436 CE – 2025 CE)
+* Timeline: Modernity (1436 CE – 2025 CE):  A Setsafar Commentary
+#+begin_quote
+"'The victors write the history,' or so they say. Luo Guanzhong's /Romance of the Three Kingdoms/ demonstrates another principle: 'but the poet will prove them wrong.'" — Brother Amos Kwan
+#+end_quote
+
 This period is known by Setsafar scholars as *"The Age of Regression"* — a time when humanity fell in love with its curiosity and growing knowledge, while regressing into *isolation, elitism, and moral degradation*. The era saw the abandonment of *God*, *neighbor*, and *community*, in favor of *Greco-Roman Ideals*, resulting in rigid patriarchal systems that limited the rights of women, abandoned community symbiosis for totalitarian structures in both Church and state, redefined its real comming of age as the *Dark Ages*.
 
 #+begin_quote
@@ -94,50 +98,53 @@ This period is known by Setsafar scholars as *"The Age of Regression"* — a tim
 - Setsafar scholars critique this as *a superficial revolution* that *replaced one absolutist system with another*.
 - They see *John Locke’s ideas* as *fundamentally flawed*, promoting *individualism over relationalism*.
 
-
+  #+begin_quote
+  “A man alone is a shadow. A man in a family is a tree. A man in a community is a forest.” — Brother Tupaq Amaru
+  #+end_quote
 
 ** America's War Against Freedom (1775 CE)
 - Setsafar interprets the *American War of Independence* as *a war against freedom* rather than for it.
 - *"The American colonies were freer under England than they ever were under their own government."*
 - The *mass exodus to Canada* is seen as *a rejection of the American experiment*.
-- *"The colonists did not fight for liberty. They fought to create their own Leviathan."*
+- As predicted by *Patrick Henry*, the newly established government became *centralized and controlling*. A *Republic only on paper*.
+
+  #+begin_quote
+  "The colonists did not fight for liberty. They fought to create their own Leviathan." — Brother Chigu
+  #+end_quote
+
+  #+begin_quote
+  "Rebelling against a parliamentary monarchy, the Americans created their own parliament (Congress = Supreme Court) and monarch (President)." — Doctor Luvsan
+  #+end_quote
+
+  #+begin_quote
+  "Government is a mirror of its culture. Cut off the head, and it grows an almost identical replacement. Only more vigilant to prevent decapitation — even at the expense of the culture it mirrors. Polity can only change when culture changes." — Mother Bethania [Bethania Noab Azim]
+  #+end_quote
 
 ** World War I (1914 – 1918 CE)
 - Viewed as *the beginning of the true Anthropocene decline*.
-- *"The war to end all wars only brought more."*
+- The war to end all wars only brought more.
 
-** World War II (1939 – 1945 CE)
+  #+begin_quote
+  "Europe is to be drenched in blood... because, in an obscure town, a madman kills a prince" -- The Manchester Guardian
+  #+end_quote
+
+  #+begin_quote
+  "Never think that war, no matter how necessary, nor how justified, is not a crime" -- Earnest Hemingway
+  #+end_quote
+
+** World War II  and the Cold War (1939 – 1989 CE)
 - Setsafar chronicles emphasize *the moral failings* of *both Axis and Allied powers*, refusing to *glorify the victors*.
-- *"There were no righteous nations in this war. Only tragedies."*
+- *There were no righteous nations in this war. Only tragedies.*
+- Cold War was the result of U.S. banks funding totalitarianism.
 
-** Cold War (1945 – 1989 CE)
-- Seen as *a continuation of imperialistic tendencies*, masked by *ideological rivalry*.
+#+begin_quote
+"By 1919 Krupp was already giving financial aid to one of the reactionary political groups which sowed the seed of the present Nazi ideology. Hugo Stinnes was an early contributor to the Nazi Party (National Socialistische Deutsche Arbeiter Partei). By 1924 other prominent industrialists and financiers, among them Fritz Thyssen, Albert Voegler, Adolph [sic] Kirdorf, and Kurt von Schröder, were secretly giving substantial sums to the Nazis. In 1931 members of the coalowners association which Kirdorf headed pledged themselves to pay 50 pfennigs for each ton of coal sold, the money to go to the organization which Hitler was building." -- U.S. Kilgore Comitte in their "Elimination of German Resouces"
+#+end_quote
+
+#+begin_quote
+"Robert Stinnett’s work /Day of Deceit/ presents compelling evidence that Roosevelt’s administration was fully aware that economic sanctions would provoke Japan into war. Rather than preventing conflict, these actions ensured it. One cannot read Stinnett’s account without grappling with the moral implications of such political maneuvering." — Brother Amos Kwan
+#+end_quote
 
 ** American Wars of Oppression (1990 – 2017 CE)
 - Setsafar labels this period as *the American empire’s campaign to maintain global hegemony*.
-- *"The wars of this era were not about peace, justice, or freedom. They were about control."*
-
-
-
-* Modernity 1436 - 2025
-** Pre-Modernity - 1250 Roger Bacon and the beginning of the so-called Rennaissance
-** Beginning of the Dark Era (Itallian Rennaisance) - 1300
-** Gutenberg Press invented - 1436
-** Protestant Reformation - 1517
-** Rise of Scholastic Protestantism 1572 - Petrus Ramus
-** Althusius' Magnum Opus, /On Politics/ - 1603
-** Althusius greatest achievement in modernity - Peace of Westphalia 1648
-** English Civil War 1642 - 1651
-** Thomas Hobbes Leviathan - 1651 Return to Absolutism, abandonment of Althusius
-** Glorius Revolution (of England) - 1688
-** American's War Agasinst Freedom 1775
-Setsafar reads this as America's war AGAINST freedom, because the U.S. colonies were the second freest people in the known world at the time. Freer than the people in mainland England. Upono winning the war, American colonies were paying significant higher taxes than they were under England. Mass exodus of colonists relocate to Canada, and not for 'political reasons'.
-** World War I 1914-1918
-** World War II 1939-1945
-** Cold War 1945-1989
-** American Wars of Oppression 1990-2017
-* Post Modernity 2025 CE - 3025 CE (a.k.a. by Setsafar Scholars as the late Pre-Bayesian Era)
-** The Anthropocene Decline (2025 CE – 2150 CE)
-*** Key Themes
-**** Climate concerns prove ridled by Bernoulli's fallacy of frequentist models with fallacious inference.
-There was an undeniable impact on the Eartyh's atmosphere due to carbon emmissions by humankind, but hubris was inserted to make the crisis seem far more extreme, and keep competing third world countries from competing with western markets by trying to enforce "Green Policies" on early developed economies.
+- The wars of this era were not about peace, justice, or freedom. They were about control.
